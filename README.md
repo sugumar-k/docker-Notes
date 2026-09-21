@@ -1,13 +1,11 @@
 # docker-Notes:
 
-
-#2. DOCKER COMMANDS #
+2. DOCKER COMMANDS
 	docker +double space =to know the list of commands used in docker.
 	docker double tab will show list of commands 
 	docker commnad --help will show what operations we can perform using that command.
 	we can give docker command operation or docker-command-operation	
 	Ex:docker system df:(or) docker-system-df
-
 #docker -v:
 	to know the version of the docker.
 #docker system df:
